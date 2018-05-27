@@ -1,0 +1,8 @@
+{
+	"PATH": {
+		"PORT":"/dev/ttyACM2",
+		"IMG":"rec_img.jpg"
+
+
+	}
+}
