@@ -1,0 +1,10 @@
+{
+	"PATH": {
+		"PORT":"/dev/ttyACM0",
+		"VIDEO_NAME":"deer.mp4",
+		"DEST_PATH":"/img",
+		"SPLIT_DEST_PATH":"img/split",
+		"IMG":"img/img.jpg"
+
+	}
+}
